@@ -8,6 +8,20 @@ This is a simple password generator mobile application built using React Native.
 #### Reset Button: To reset the generated password.
 #### Copy Button: Copy password to clipboard using this button with simple and cool animation.
 
+## Screenshots
+### Smartphone
+#### One
+<img style="height: 600px" src="https://i.postimg.cc/m2xqBH1K/phone-1.png" loading="lazy"/>
+
+### Two
+<img style="height: 600px" src="https://i.postimg.cc/L5kVHhrM/phone-2.png" loading="lazy"/>
+
+## Tab
+### One
+<img src="https://i.postimg.cc/wjnRGgG5/bigTab-1.png" loading="lazy"/>
+
+### Two
+<img src="https://i.postimg.cc/KYL3Xw66/bigTab-2.png" loading="lazy"/>
 
 # Getting Started
 
