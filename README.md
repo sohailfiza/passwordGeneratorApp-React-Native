@@ -10,17 +10,17 @@ This is a simple password generator mobile application built using React Native.
 
 ## Screenshots
 ### Smartphone
-#### One
+#### Screenshot One
 <img style="height: 600px" src="https://i.postimg.cc/m2xqBH1K/phone-1.png" loading="lazy"/>
 
-### Two
+#### Screenshot Two
 <img style="height: 600px" src="https://i.postimg.cc/L5kVHhrM/phone-2.png" loading="lazy"/>
 
 ## Tab
-### One
+#### Screenshot One
 <img src="https://i.postimg.cc/wjnRGgG5/bigTab-1.png" loading="lazy"/>
 
-### Two
+#### Screenshot Two
 <img src="https://i.postimg.cc/KYL3Xw66/bigTab-2.png" loading="lazy"/>
 
 # Getting Started
